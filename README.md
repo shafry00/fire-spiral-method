@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://cdn-juni.larutmalam.id/Fire%20Spiral%20Method.png"
+    src="https://cdn-juni.larutmalam.id/fire%20spiral.png"
     alt="Fire Spiral Method Framework"
     width="1000"
   />
