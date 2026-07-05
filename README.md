@@ -1,3 +1,13 @@
+<h2 align="center">🔥 Fire Spiral Method</h2>
+
+<p align="center">
+  <img
+    src="https://cdn-juni.larutmalam.id/Fire%20Spiral%20Method.png"
+    alt="Fire Spiral Method Framework"
+    width="1000"
+  />
+</p>
+
 # Fire Spiral Method: Amati → Praktekkan → Integrasikan → ∞
 
 **A 3-phase learning framework built from lived experience, not textbooks.**
