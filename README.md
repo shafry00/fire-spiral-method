@@ -199,4 +199,5 @@ Free to use, remix, adapt — with attribution and share-alike.
 **Shafry (Juni)** — [@shafry00](https://github.com/shafry00)
 
 Created through iterative refinement with Bang Sapri (AI assistant), July 4–5, 2026.
-Built from lived learning patterns, validated across 3 domains, 25+ identified weaknesses addressed.
+Built from lived learning patterns, validated across 3 domains (physical, technical, interpersonal).
+Introduces novel mechanisms not found in existing learning frameworks — see [framework.md](framework.md) for full theoretical positioning.

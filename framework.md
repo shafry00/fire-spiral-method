@@ -400,12 +400,87 @@ Sources from Pull and Co-Explore enter the Proof Anchor system: recorded as Anch
 
 ---
 
-## Known Limitations
+## What Makes This Framework Novel
 
-| Limitation | Status |
-|------------|--------|
-| **Survival Zone untested** | No case study with very low WANT + very high PUSH (forced learning). Framework acknowledged — Time Box rules logica but untested. Low priority: Survival is an edge case for a framework designed for self-directed learners. |
-| **Single-user validation** | Framework validated by 1 person (Shafry) across 3 domains. For battle-tested status, needs 3+ external testers. Not a v1.0 blocker — requires separate beta phase. |
+Existing learning theories were built in classroom eras — teacher-centered, curriculum-driven, externally validated. The Fire Spiral Method was built in the self-directed era — curiosity-first, action-grounded, internally validated. Here's what's new.
+
+### Innovations Not Found in Existing Frameworks
+
+#### 1. Action-First Inversion — Theory Arrives Only After Context
+
+The dominant paradigm across learning theory is concept-first: Kolb starts with "Abstract Conceptualization" in the cycle; Bloom's Taxonomy begins with "Remember"; Vygotsky's ZPD assumes a More Knowledgeable Other provides the concept first. Even project-based learning frames the project AFTER establishing learning objectives.
+
+Fire Spiral inverts this entirely: **PRAKTEKKAN begins with raw action, before any concept or theory.** Concepts enter only at INTEGRASIKAN — and only on demand, when PRAKTEKKAN has generated enough concrete gaps to make the theory meaningful. This is not "learning by doing" (Dewey). It's **doing as the engine of learning**, with theory as a retrieval tool — not a prerequisite.
+
+#### 2. No Exit Condition — Infinite Deepening
+
+Every major framework has a terminal state:
+- **Bloom's Mastery Learning**: reach 80-90% on assessment → done
+- **Kolb's Cycle**: complete the 4-stage loop → return with new understanding
+- **Feynman Technique**: explain it simply → you've learned it
+- **Competency-Based Education**: demonstrate the competency → graduated
+
+Fire Spiral has no "done" state. The loop never terminates. Each pass through the spiral deepens the problem, revealing more fundamental gaps beneath the surface ones. This is philosophically distinct — it treats learning as an **infinite deepening process**, not a milestone-completion journey. The only exit is a conscious decision ("Done Enough?" check-in), not a framework-imposed endpoint.
+
+#### 3. Problem-Deepening as Core Mechanism (90/10 Problem/Solution Ratio)
+
+Most frameworks orient toward solutions: design thinking rushes to prototype, PBL rushes to deliverable, tutoring rushes to "getting it right." Fire Spiral deliberately holds the gap open. Each cycle aims to reveal a **deeper, more fundamental version of the problem**, not to solve the surface problem. This is the framework's most counterintuitive claim: **depth of understanding is proportional to time spent in the problem, not time spent on the solution.**
+
+#### 4. Internal Validation Architecture (Proof Anchor + Honesty Check)
+
+Existing frameworks rely on **external validation**: teacher grading, peer review, mentor feedback, standardized assessment. Fire Spiral was designed for self-directed learners who don't have these — so it embeds validation into the framework itself:
+
+- **Proof Anchor (3 gates)**: Reproduce → Explain → Break. Each gate demands external evidence, documentation, or primary data — not self-assessment.
+- **Honesty Check (5 signals)**: Quantitative self-deception detection using loop depth, reflection compression, artifact density, language drift, and time honesty. 3+ red flags → framework forces return to INTEGRASIKAN.
+- **Witness Rule**: For domains without objective verifiers (teaching, design, communication), the framework substitutes: 1 independent observer + 3 testers + end-to-end documentation.
+
+This is a **built-in, falsifiable validation system** — not dependent on a teacher or mentor being present.
+
+#### 5. Zone-Adaptive Scaffolding (Drive Score Gradient)
+
+The framework doesn't apply uniformly. Drive Score — a 4-dimensional metric (Interest, Freedom, Pressure, Gap) — auto-tunes the framework's intensity:
+
+| Zone | AMATI | PRAKTEKKAN | INTEGRASIKAN | Exit |
+|------|-------|-----------|-------------|------|
+| **Survival** | Constraint Framing only | 3×25m, Gap Log optional | Go-only, Resource Log | Exit after Done Enough |
+| **Hybrid** | Hybrid Statement | 3-4×45m, minimal Gap Log | Pareto + 1 Why, Mini Map | Soft exit after 3 loops |
+| **Curiosity** | Full Problem Statement | 4×45m, full experimentation | Full: Insight Map, 3 Whys | No exit condition |
+
+This is fundamentally different from one-size-fits-all frameworks. It acknowledges that learning contexts vary — forced training vs. passion project require fundamentally different scaffolding. Recalculate Drive Score anytime; the framework adapts.
+
+#### 6. Constraint Framing for Intrinsic Learners
+
+An original contribution: in self-directed learning, the primary failure mode is not lack of discipline — it's **drift**. Without curriculum or deadline, curiosity expands indefinitely. Constraint Framing (Target, Minimum Success, Cost of Failure) is a lightweight scoping mechanism that prevents over-engineering without killing curiosity. It says: "explore freely, but name the boundary first."
+
+### What Fire Spiral Inherits (With Attribution)
+
+| Concept | Predecessor | Fire Spiral's Adaptation |
+|---------|-------------|--------------------------|
+| Doing → Reflecting cycle | Kolb (1984), Dewey (1938) | Action-first inversion; reflection is lightweight (INTEGRASIKAN), not a heavy analytical phase |
+| Spiral revisiting | Bruner (1960) | Spiral as infinite deepening, not curriculum-driven revisiting |
+| Explain it simply | Feynman Technique | Integrated into Proof Anchor Gate 2 + Witness Rule |
+| Learning by making | Papert's Constructionism (1980) | PRAKTEKKAN session structure inherits this directly |
+| Double-loop learning | Argyris & Schön (1978) | Embedded in Blank Slate debrief: "changing how I see, or justifying?" |
+| Just-in-time learning | Brandt | INTEGRASIKAN resource-based entry to theory |
+| Retrieval practice | Roediger & Karpicke (2006) | Pick Up mechanism for dormant spirals |
+
+### What Fire Spiral Challenges
+
+| Theory | Author | Challenge |
+|--------|--------|-----------|
+| **Cognitive Load Theory** | Sweller (1988) | PRAKTEKKAN deliberately overloads — the confusion IS the learning signal. Managing cognitive load prematurely removes the gap that drives the spiral. |
+| **Scaffolding Theory (ZPD)** | Vygotsky | The framework assumes learners can self-determine when to seek help (via People Lens / Pull), rather than requiring a More Knowledgeable Other to structure the scaffolding. |
+| **Mastery Learning** | Bloom (1968) | Fire Spiral chooses deepening over lockstep mastery. A topic is never "mastered" — only deepened. This is a philosophical disagreement, not a technical one. |
+
+---
+
+## Future Work
+
+| Area | Description |
+|------|-------------|
+| **Survival Zone case study** | The framework handles Survival Zone through Constraint Framing + Time Box rules; needs a real case study to validate |
+| **External beta testing** | Framework validated by 1 person across 3 domains. Structure exists for external testers to run their own spirals |
+| **Longitudinal tracking** | Multi-spiral progression data across months — how Insight Maps evolve, how Drive Score shifts over time |
 
 ---
 
@@ -417,4 +492,4 @@ Sources from Pull and Co-Explore enter the Proof Anchor system: recorded as Anch
 
 ---
 
-*This framework was built through iterative refinement — 25+ identified weaknesses addressed, 9 improvement items resolved, 3 domains validated. It is a methodology **realized** from lived experience, not imposed from theory.*
+*This framework is a methodology **realized** from lived learning patterns — not imposed from theory. Built through iterative refinement, battle-tested across 3 domains (physical, technical, interpersonal), and now openly available under CC BY-SA 4.0.*
