@@ -186,6 +186,44 @@ fire-spiral-method/
 
 ---
 
+## Why This Is New — Compared to Existing Learning Theories
+
+Existing frameworks were built in classroom eras — teacher-centered, curriculum-driven, externally validated. The Fire Spiral Method was built in the self-directed era. Here's what it does differently.
+
+### Six Innovations
+
+**1. Action-First Inversion.** Kolb starts with "Abstract Conceptualization." Bloom begins with "Remember." Vygotsky's ZPD assumes a teacher provides the concept first. Fire Spiral inverts this: **PRAKTEKKAN begins with raw action, before any theory.** Concepts enter only at INTEGRASIKAN — and only when concrete gaps make the theory meaningful.
+
+**2. No Exit Condition — Infinite Deepening.** Every major framework terminates: Bloom's mastery learning ends at 80-90%. The Feynman Technique ends when you "explain it simply." Fire Spiral never terminates. Each pass through the spiral reveals **deeper, more fundamental gaps** beneath the surface ones. Learning is treated as infinite deepening, not milestone completion.
+
+**3. Problem-Deepening Over Problem-Solving (90/10 Ratio).** Design thinking rushes to prototype. PBL rushes to deliverable. Tutoring rushes to "getting it right." Fire Spiral deliberately **holds the gap open** — each cycle aims to reveal a more fundamental version of the problem, not to solve the surface one.
+
+**4. Built-In Validation — No Teacher Required.** Existing frameworks depend on external validation: teacher grading, peer review, mentor feedback. Fire Spiral embeds validation into the framework itself: **Proof Anchor** (3 falsifiable gates), **Honesty Check** (5 self-deception signals), and **Witness Rule** (for domains without objective verifiers).
+
+**5. Zone-Adaptive Scaffolding.** Drive Score — a 4-dimensional metric — auto-tunes the framework's intensity. Survival Zone gets compressed fast-exit scaffolding. Curiosity Zone gets the full toolkit. This acknowledges that learning contexts vary; the framework adapts rather than applying uniformly.
+
+**6. Constraint Framing for Intrinsic Learners.** The primary failure mode in self-directed learning is not lack of discipline — it's **drift**. Constraint Framing prevents over-engineering without killing curiosity.
+
+### What It Inherits (With Attribution)
+
+| Concept | From | Adaptation |
+|---------|------|------------|
+| Doing → Reflecting cycle | Kolb (1984), Dewey (1938) | Action-first inversion; reflection is lightweight |
+| Spiral revisiting | Bruner (1960) | Infinite deepening, not curriculum-driven revisiting |
+| Explain it simply | Feynman Technique | Integrated into Proof Anchor Gate 2 |
+| Learning by making | Papert's Constructionism (1980) | PRAKTEKKAN inherits this directly |
+| Double-loop learning | Argyris & Schön (1978) | Embedded in Blank Slate debrief |
+
+### What It Challenges
+
+| Theory | Challenge |
+|--------|-----------|
+| **Cognitive Load Theory** (Sweller 1988) | PRAKTEKKAN deliberately overloads — the confusion IS the learning signal |
+| **ZPD Scaffolding** (Vygotsky) | Learners self-determine when to seek help via People Lens, no MKO required |
+| **Mastery Learning** (Bloom 1968) | A topic is never "mastered" — only deepened. Philosophical disagreement. |
+
+---
+
 ## License
 
 Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
